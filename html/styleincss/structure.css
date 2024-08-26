@@ -1,0 +1,21 @@
+.model{
+    font-family: montserrat;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.order{
+    font-family: montserrat;
+    font-size: larger;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 0;
+}
+
+.touchless{
+    text-decoration: underline;
+    cursor: pointer;
+}

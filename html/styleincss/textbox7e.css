@@ -1,0 +1,10 @@
+.sreach-google-bar{
+    font-size: 14px;
+    height: 30px;
+    width: 450px;
+    padding-left: 15px;
+    border-radius: 140px;
+    border-style: solid;
+    box-shadow: rgb(221, 219, 219) 1px 1px 3px 2px;
+    border: none;
+}

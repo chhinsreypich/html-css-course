@@ -1,0 +1,53 @@
+.red-square{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+  
+}
+
+.green-circle{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.div-and-button{
+    width: 250px;
+    height: 80px;
+    border-width: 1px;
+    border-style: solid;
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+.black-one{
+    width: 350px;
+    background-color: rgb(39, 38, 38);
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+    
+}
+
+.bold-text{ 
+    color: white;
+    font-family: arial;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 0;
+    font-size: 24px;
+}
+
+.normal-text{
+    font-family: arial;
+    margin-top: 0;
+    color: gray;
+    font-size: 15px;
+    margin-bottom: 0;
+}

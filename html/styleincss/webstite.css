@@ -1,0 +1,36 @@
+.addtocart-button{
+    background-color:  rgb(224, 203, 37);
+    border: none;
+    height: 30px;
+    width: 110px;
+    border-radius: 15px;
+    transition: background-color 0.30s, box-shadow 0.30s,opacity 0.25s;
+    cursor: pointer; 
+    margin: 8px;
+}
+.addtocart-button:hover{
+    background-color: rgb(201, 173, 49);
+    box-shadow: 6px 4px 4px rgb(228, 225, 225);
+}
+
+.addtocart-button:active{
+    opacity: 0.7;
+}
+
+.buynow-button{
+    background-color: orange;
+    border: none;
+    height: 30px;
+    width: 110px;                                      
+    border-radius: 15px;
+    transition: background-color 0.30s;
+    cursor: pointer;
+}
+
+.buynow-button:hover{
+    background-color: rgb(189, 127, 12);
+}
+
+.buynow-button:active{
+    opacity: 0.7;
+}
